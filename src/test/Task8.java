@@ -3,8 +3,6 @@
  */
 package test;
 
-import java.util.Scanner;
-
 public class Task8 {
 static double sum;
     public static void main(String[] args) {
