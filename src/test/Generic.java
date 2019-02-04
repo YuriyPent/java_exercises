@@ -22,7 +22,7 @@ class Main {
 
     public static void main(String[] args) {
         // instance of Integer type 
-        Generic<Integer> iObj = new Generic<Integer>(15);
+        Generic<Integer> iObj = new Generic<Integer>(75);
         System.out.println(iObj.getObject());
  
         // instance of String type 
